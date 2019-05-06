@@ -1,0 +1,45 @@
+{
+  "name": "h5-template",
+  "version": "1.0.0.5",
+  "description": "Free h5 Template",
+  "keywords": [
+    "admin",
+    "webapp"
+  ],
+  "homepage": "https://github.com/hsb0307/h5template",
+  "author": {
+    "name": "hushibo",
+    "url": "https://github.com/hsb0307",
+    "github": "https://github.com/hsb0307"
+  },
+
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsb0307/h5template.git"
+  },
+  "scripts": {
+
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "browserslist": [
+    "last 1 major version",
+    ">= 1%",
+    "Chrome >= 45",
+    "Firefox >= 38",
+    "Edge >= 12",
+    "Explorer >= 10",
+    "iOS >= 9",
+    "Safari >= 9",
+    "Android >= 4.4",
+    "Opera >= 30"
+  ]
+}
